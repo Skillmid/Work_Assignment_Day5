@@ -1,3 +1,6 @@
+/* A Javascript to class*/
+for (var i=1; i<21; i++)
+
 var build=1;
 var olu;
 var Name="Olu";
