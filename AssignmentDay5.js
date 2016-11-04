@@ -24,3 +24,5 @@ for (var i=1; i<21; i++)
     	console.log (i,"Its not divisible by 3 or 5");
     }
 } 
+
+/*Thanks for reviewing*/
